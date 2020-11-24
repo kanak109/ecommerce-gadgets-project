@@ -1,0 +1,98 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.nav-item{
+    font-weight: 700;
+}
+
+.container{
+    margin-bottom: 70px;
+}
+
+.carousel-inner{
+    background-color: azure;
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 70px;
+
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+.carousel-indicators .active{
+    background-color: orangered;
+}
+
+.carousel-indicators li{
+    background-color: #8f8e8e;
+}
+
+.buy-now-button{
+    color: white;
+    background-color: black;
+    padding: 5px 15px ;
+    border: none;
+    border-radius: 10px;
+}
+.titleDiv{
+    padding: 2%;
+}
+
+.card{
+    padding: 2%;
+    text-align: center;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 2px 2px 20px grey;
+
+    
+}
+.card-footer{
+    border-top: none;
+    
+}
+#cat-hr{
+    width: 25%;
+    margin: 0px auto 10px auto;
+    padding: 5px 10px;
+    border-radius: 10px;
+    background-image: linear-gradient(90deg, #e68a69, #ff4500 );
+}
+
+
+
+.cat-item{
+    
+    text-align: center;
+    box-shadow: 2px 2px 5px rgb(180, 170, 170);
+    border-radius: 0px 20px;
+    margin: 20px 0px;
+    padding: 40px;
+
+}
+
+#contact{
+    height: 300px;
+    background-color: #73bd83;
+    border: none;
+    border-radius: 30px;
+}
+
+footer{
+    text-align: center;
+    font-weight: 500;
+}
+
+
+
+
+
+
+
+
+
+
+
+
